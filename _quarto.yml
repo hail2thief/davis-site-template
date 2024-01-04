@@ -6,11 +6,7 @@ website:
   site-url: "https://juanftellez.com/"
   description: "Juan F. Tellez is an assistant professor at UC Davis."
   search: false
-  navbar:
-    pinned: true
-    left:
-      - href: index.qmd
-        text: About
+  navbar: false
 
 format:
   html:
